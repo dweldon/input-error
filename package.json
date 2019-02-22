@@ -1,0 +1,11 @@
+{
+  "name": "input-error",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "nuxt"
+  },
+  "dependencies": {
+    "nuxt": "^2.4.3"
+  }
+}
